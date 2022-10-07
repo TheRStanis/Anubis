@@ -62,15 +62,16 @@
 
 @media screen and (max-width: 768px) {
 .header__inner {
-    max-width: 500px;
-    }    
-.intro {
-    height: 350vh;
-    max-width: 500px;
-
-    }
-    .bns1 {
-    max-width: 400px;
+    max-width: 100%;
+}
+.header__logo {
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-top: 0px;
+}    
+.nav__link {
+    margin: 0 5px;
 }
 }
     
