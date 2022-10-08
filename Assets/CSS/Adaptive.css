@@ -61,9 +61,6 @@
 }
 
 @media screen and (max-width: 768px) {
-.intro {
-    height: 300vh;
-    }
 .header__inner {
     max-width: 100%;
 }
@@ -75,6 +72,12 @@
 }    
 .nav__link {
     margin: 0 5px;
+}
+.intro {
+    height: 300vh;
+}
+.uk {
+    padding-left: 5px;
 }
 .bns1 {
     max-width: 100%;
@@ -97,5 +100,15 @@
     width: 30px;
     height: 30px;
 }
+.footer {
+    height: 72px;
+    
+}
+.Created {
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
 }
     
