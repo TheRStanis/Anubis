@@ -89,6 +89,9 @@
 .intro__suptitle {
     font-family: 'Courier New', Courier, monospace;
 }
+.intro__FAQ {
+    height: 220vh;
+    }
 .req1 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
