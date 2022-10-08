@@ -319,7 +319,7 @@ h1, h2, h3, h4, h5 {
     transition: .5s;
 }
 
-.btn4:hover {
+.btn4ind:hover {
     background-position: right;
     color: #2193b0;
 }
