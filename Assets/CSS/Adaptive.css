@@ -62,7 +62,7 @@
 
 @media screen and (max-width: 768px) {
 .header {
-    padding-top: 3px;
+    padding-top: 10px;
 }
 .header__inner {
     max-width: 100%;
@@ -77,10 +77,11 @@
     margin: 0 5px;
 }
 .intro {
-    height: 320vh;
+    height: 300vh;
 }
 .intro__title {
     font-family: 'Courier New', Courier, monospace;
+    
 }
 .uk {
     padding-left: 5px;
@@ -90,12 +91,15 @@
 }
 .req1 {
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 .lnk {
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 .endword {
     font-family: 'Courier New', Courier, monospace; 
+    font-weight: bold;
 }
 .bns1 {
     max-width: 100%;
@@ -131,7 +135,14 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+.btn4ind {
+    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-left: 13px;
+}
+
 .btn4 {
+    margin-left: 20px;
     padding-top: 2px;
    
 }
@@ -149,6 +160,4 @@
     padding-left: 3px;
     padding-right: 3px;
 }
-
 }
-    
