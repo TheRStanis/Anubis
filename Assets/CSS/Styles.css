@@ -307,7 +307,22 @@ h1, h2, h3, h4, h5 {
     background-position: right;
     color: #2193b0;
 }
+.btn4ind {
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to left, #CAC531, #F3F9A7, #CAC531);
+    text-decoration: none;
+    padding: 10px;
+    border-radius:  10px;
+    background-size: 200%;
+    transition: .5s;
+}
 
+.btn4:hover {
+    background-position: right;
+    color: #2193b0;
+}
 .btn4 {
     font-size: 20px;
     font-family: monospace;
