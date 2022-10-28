@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5 {
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    height: 190vh;
+    height: 200vh;
     /*Test img*/
     background: url("..//Images/Intro.jpg") top 
     no-repeat;
